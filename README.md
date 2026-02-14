@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Agentic Code Analyzer
+# 🤖 ai-driven-code-analyzer
 
 ### *Multi-Agent AI System for Intelligent Code Analysis & Refactoring*
 
@@ -19,7 +19,7 @@
 
 ## 📋 Overview
 
-**Agentic Code Analyzer** is a sophisticated, fully-local multi-agent system that performs comprehensive codebase analysis using coordinated AI agents. Built with **LangGraph** and powered by **Ollama**, it demonstrates advanced agentic AI patterns for real-world software engineering tasks.
+**ai-driven-code-analyzer** is a sophisticated, fully-local multi-agent system that performs comprehensive codebase analysis using coordinated AI agents. Built with **LangGraph** and powered by **Ollama**, it demonstrates advanced agentic AI patterns for real-world software engineering tasks.
 
 Unlike traditional single-prompt AI tools, this system orchestrates **four specialized agents** that collaborate through a structured workflow to deliver deep, actionable insights into code quality, design patterns, and refactoring opportunities.
 
@@ -130,7 +130,7 @@ This specialization mirrors production AI systems where different models handle 
 ## 🗂️ Project Structure
 
 ```
-agentic-code-analyzer/
+ai-driven-code-analyzer/
 ├── app/
 │   ├── main.py              # Interactive CLI entry point
 │   ├── graph.py             # LangGraph workflow orchestration
@@ -192,8 +192,8 @@ agentic-code-analyzer/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/agentic-code-analyzer.git
-   cd agentic-code-analyzer
+   git clone https://github.com/<your-username>/ai-driven-code-analyzer.git
+   cd ai-driven-code-analyzer
    ```
 
 2. **Create virtual environment**
@@ -429,6 +429,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 **Built with ❤️ by a passionate AI engineer**
 
-[Report Bug](https://github.com/0DevDutt0/agentic-code-analyzer/issues) • [Request Feature](https://github.com/0DevDutt0/agentic-code-analyzer/issues)
+[Report Bug](https://github.com/0DevDutt0/ai-driven-code-analyzer/issues) • [Request Feature](https://github.com/0DevDutt0/ai-driven-code-analyzer/issues)
 
 </div>
+
