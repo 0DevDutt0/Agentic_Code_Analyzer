@@ -409,9 +409,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 **[Devdutt S]**
 
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/devdutts)
+- 💼 LinkedIn: [linkedin.com/in/devdutts](https://linkedin.com/in/devdutts)
 - 📧 Email: devduttshoji123@gmail.com
-- 🐙 GitHub: [@your-username](https://github.com/0DevDutt0)
+- 🐙 GitHub: [@0DevDutt0](https://github.com/0DevDutt0)
 
 ---
 
